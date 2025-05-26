@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-sqlalchemy
+python-dotenv
+werkzeug
+PyJWT
+mysql-connector-python
+pip install sqlalchemy-utils
+openai
