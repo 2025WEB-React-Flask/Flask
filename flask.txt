@@ -5,5 +5,5 @@ python-dotenv
 werkzeug
 PyJWT
 mysql-connector-python
-pip install sqlalchemy-utils
+sqlalchemy-utils
 openai
