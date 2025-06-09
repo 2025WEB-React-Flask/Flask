@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "/", // API 기본 URL
+  baseURL: "http://127.0.0.1:5000", // API 기본 URL
   withCredentials: true, // 크로스 도메인 요청 시 쿠키 전달
   headers: {
     "Content-Type": "application/json", // 요청 헤더 설정
